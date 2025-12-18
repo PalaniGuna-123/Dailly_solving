@@ -10,3 +10,5 @@ def cumulative_sum(arr: list) -> list:
 print(cumulative_sum([1,2,3,4]))
 
 #output [1, 3, 6, 10]
+text ="Quality Assurance"
+print(text[::-1])

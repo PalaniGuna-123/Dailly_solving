@@ -1,6 +1,6 @@
 def square_pattern(rows: int) -> None:
     for i in range(rows):
-        print("*" * rows)
+        print("* " * rows)
 
 square_pattern(5)
 

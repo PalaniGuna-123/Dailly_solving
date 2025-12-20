@@ -12,3 +12,5 @@ def hollow_square(rows: int) -> None:
             print("*" + " " * (rows - 2) + "*")
 
 hollow_square(5)
+
+# if i == 0 or i == r

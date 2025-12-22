@@ -19,5 +19,5 @@ def remove_duplicate_str(s):
     return final_str
 
 
-text = "mississippi"
+text = "mississippyi"
 print(remove_duplicate_str(text))

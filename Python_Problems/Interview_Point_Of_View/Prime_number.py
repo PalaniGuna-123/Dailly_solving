@@ -36,3 +36,17 @@ def PrimeNumber(n: int) -> int:
             print(" This is Not a prime number")
 
 PrimeNumber(3)
+# iteration
+# check divisibility from 2 to n-1  
+# if divisible by any number in that range, it's not prime
+# else it is prime          
+
+#logic
+# n=7
+# i=2
+# 7 % 2 !=0
+# i=3
+# 7 % 3 !=0
+# i=4
+# 7 % 4 !=0
+# i=5               

@@ -7,5 +7,3 @@ def sum_of_numbers_divisible_by_3_and_5(number1: int , number2: int) -> int:
 
 print(sum_of_numbers_divisible_by_3_and_5(3,90))
         
-
-

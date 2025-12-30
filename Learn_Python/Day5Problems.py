@@ -1,5 +1,9 @@
 
 # 1. Given a list of numbers, find the sum and average.
+numbers = [10, 20, 30, 40, 50]
+total_sum = sum(numbers)
+average = total_sum / len(numbers)
+print(f"Sum: {total_sum}, Average: {average}")
 
 # 2. Create a program that takes a temperature in Celsius and converts it to Kelvin.
 
